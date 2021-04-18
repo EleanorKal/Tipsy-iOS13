@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Tipsy
 //
-//  Created by Angela Yu on 09/09/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Eleanor Kalu 18/04/2021.
+//  Copyright © 2021 Blarnyä. All rights reserved.
 //
 
 import UIKit
